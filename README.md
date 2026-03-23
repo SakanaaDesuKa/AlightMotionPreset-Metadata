@@ -6,6 +6,10 @@
 
 </div>
 
+```
+https://raw.githubusercontent.com/SakanaaDesuKa/AlightMotionPreset-Metadata/refs/heads/main/preset.json?token=GHSAT0AAAAAADWJWFOH73IL7T3FQTWMHPFY2OBS5JQ
+```
+
 # JSON
 ```
 [

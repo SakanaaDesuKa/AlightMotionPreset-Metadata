@@ -7,7 +7,7 @@
 </div>
 
 ```
-https://raw.githubusercontent.com/SakanaaDesuKa/AlightMotionPreset-Metadata/refs/heads/main/preset.json?token=GHSAT0AAAAAADWJWFOH3E2QUW2Q325BDYT42OCBS6Q
+https://raw.githubusercontent.com/SakanaaDesuKa/AlightMotionPreset-Metadata/refs/heads/main/preset.json
 ```
 
 # JSON
